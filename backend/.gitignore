@@ -9,6 +9,8 @@ pnpm-debug.log*
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
+POSTMAN_COLLECTION.md 
+SETUP_GUIDE.md
 
 # =========================================
 # Environment
